@@ -167,8 +167,9 @@ This is a personal portfolio website, but suggestions for improvements are welco
 ## 📞 Support
 
 For any questions or issues, please contact:
-- Email: umair.ahmad@email.com
-- Phone: +91 98765 43210
+- Email: umairansari3205@gmail.com
+- Phone: +91 7078615961
 
 ---
+
 
